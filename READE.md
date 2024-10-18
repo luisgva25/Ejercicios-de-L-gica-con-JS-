@@ -1,0 +1,4 @@
+|UNIVERSIDAD TEGNOLOGICA DE LA SIERRA HIDALGENSE|Aplicaciones Web Orientada a Servicios |
+|:----------:|:------------------------:|
+|LUIS GERARDO VERGARA ARTEAGA|4TIDSM-G2|
+|4 CUATRIMESTRE | SEPTIEMBRE/DICIEMBRE 2024|
